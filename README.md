@@ -1,1 +1,1 @@
-# initial
+# This is a project for my future company, being used as our website The company is Boards & Bourbon, a Board Game Parlour. This project aims to introduce potential customers and vendors to the company, what we do, and the unique service offering we produce. 
